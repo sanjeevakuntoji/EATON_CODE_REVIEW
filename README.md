@@ -1,9 +1,9 @@
-Github link
+# Github link
 
 Url : https://github.com/sanjeevakuntoji/EATON_CODE_REVIEW.git
 
 
-Steps to follow for running the application
+# Steps to follow for running the application
 Go to the above mentioned github link
 
 Open your terminal and type "git clone https://github.com/sanjeevakuntoji/EATON_CODE_REVIEW.git" and press Enter key
@@ -18,4 +18,4 @@ Type npm start to run the application locally
 
 It will run the application in the localhost:3000 port
 
-You can view the project in your code editor.
+# You can view the project in your code editor.
